@@ -17,7 +17,7 @@
 
 ## Time taken:
 
-- This project took me 2.5 hours to build from scratch because of correct alignment of icons on image and for making responsive it took me extra 1hr.
+- I have taken 2.5 hours to build from scratch because of correct alignment of icons on image and for making responsive it took me extra 1hr.
 
 
 
